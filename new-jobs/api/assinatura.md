@@ -50,5 +50,5 @@ i.
 
 ### Status
 
-<table data-full-width="false"><thead><tr><th>code</th><th>Status</th></tr></thead><tbody><tr><td>0</td><td>Pendente</td></tr><tr><td>1</td><td>Aprovado</td></tr><tr><td>2</td><td>Cancelado</td></tr><tr><td>3</td><td>Estorno</td></tr><tr><td>4</td><td>Solicitação de cancelamento</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>code</th><th>Status</th></tr></thead><tbody><tr><td>0</td><td>Pendente ( Padrão)</td></tr><tr><td>1</td><td>Aprovado</td></tr><tr><td>2</td><td>Cancelado</td></tr><tr><td>3</td><td>Estorno</td></tr><tr><td>4</td><td>Solicitação de cancelamento</td></tr></tbody></table>
 
