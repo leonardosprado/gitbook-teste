@@ -1,4 +1,5 @@
 # Table of contents
 
 * [NEW JOBS](README.md)
-* [Assinatura](assinatura.md)
+  * [API](new-jobs/api/README.md)
+    * [Assinatura](new-jobs/api/assinatura.md)
